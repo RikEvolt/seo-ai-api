@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SEO Analyzer</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background: #f8f9fa;
+            padding-top: 40px;
+        }
+        .card {
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+        }
+        .score-bar {
+            height: 24px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1 class="text-center mb-4">AI SEO Analyzer</h1>
+    <form method="POST" class="mb-4">
+        <div class="input-group">
+            <input type="text" class="form-control" name="url" placeholder="Nhập URL website..." required>
+            <button class="btn btn-primary">Phân tích</button>
+        </div>
+    </form>
+
+    {% if result %}
+    <div class="card p-4">
+        <h4>Kết quả phân tích cho: <strong>{{ result.summary }}</strong></h4>
+        <hr>
+
+        <div class="mb-3">
+            <strong>Điểm SEO:</strong> {{ result.web_score }}/100
+            <div class="progress">
+                <div class="progress-bar bg-success score-bar" style="width: {{ result.web_score }}%;"></div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <strong>Điểm nội dung:</strong> {{ result.content_score }}/100
+            <div class="progress">
+                <div class="progress-bar bg-info score-bar" style="width: {{ result.content_score }}%;"></div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <strong>Google PageSpeed:</strong> {{ result.pagespeed_score }}/100
+            <div class="progress">
+                <div class="progress-bar bg-warning score-bar" style="width: {{ result.pagespeed_score }}%;"></div>
+            </div>
+        </div>
+
+        <p><strong>Backlinks ước lượng:</strong> {{ result.backlinks }}</p>
+        <p><strong>Từ khóa trong top 10:</strong> {{ result.keywords_top10 }}</p>
+
+        <hr>
+
+        <h5>Thông tin cấu trúc trang</h5>
+        <p><strong>Tiêu đề (title):</strong> {{ result.title }}</p>
+        <p><strong>Điểm title:</strong> {{ result.title_score }}/100</p>
+
+        <p><strong>Thẻ H1:</strong></p>
+        <ul>
+            {% for h in result.h1_tags %}
+            <li>{{ h }}</li>
+            {% endfor %}
+        </ul>
+        <p><strong>Điểm H1:</strong> {{ result.h1_score }}/100</p>
+
+        <hr>
+
+        <h5>Từ khóa quan trọng được AI trích xuất:</h5>
+        <ul>
+            {% for kw in result.keywords_extracted %}
+            <li>{{ kw }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    {% if keywords %}
+    <div class="card mt-4 p-4">
+        <h4>Bảng xếp hạng từ khóa (SEO Keyword Ranking)</h4>
+        <table class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Hạng</th>
+                    <th>Từ khóa</th>
+                    <th>Lượt tìm kiếm</th>
+                    <th>CPC</th>
+                    <th>Độ khó</th>
+                    <th>Điểm SEO</th>
+                    <th>Gợi ý</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for kw in keywords %}
+                <tr>
+                    <td><strong>#{{ kw.rank }}</strong></td>
+                    <td>{{ kw.keyword }}</td>
+                    <td>{{ kw.search_volume }}</td>
+                    <td>{{ kw.cpc }}</td>
+                    <td>{{ kw.difficulty }}</td>
+                    <td>{{ kw.seo_score }}</td>
+                    <td>
+                        {% if kw.is_best %}
+                            <span class="badge bg-success">Tốt nhất</span>
+                        {% else %}
+                            <span class="text-muted">–</span>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+</div>
+</body>
+</html>

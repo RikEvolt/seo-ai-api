@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Dự đoán SEO</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 50px auto; }
+        textarea { width: 100%; height: 150px; margin-bottom: 20px; }
+        button { padding: 10px 20px; }
+        .result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Dự đoán đoạn văn có chứa nội dung SEO không?</h2>
+    <textarea id="inputText" placeholder="Nhập đoạn văn tại đây..."></textarea><br>
+    <button onclick="predict()">Dự đoán</button>
+    <div class="result" id="result"></div>
+
+    <script>
+        async function predict() {
+            const text = document.getElementById("inputText").value;
+            const response = await fetch("/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ text: text })
+            });
+            const data = await response.json();
+            const label = data.prediction === 1 ? "✅ Có yếu tố SEO" : "❌ Không phải nội dung SEO";
+            document.getElementById("result").innerHTML =
+                `Kết quả: ${label}<br>Độ tin cậy: ${(data.confidence * 100).toFixed(2)}%`;
+        }
+    </script>
+</body>
+</html>

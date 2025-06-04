@@ -1,0 +1,471 @@
+words,rank,title,h1,snippet,links,total_result,website_score,keyword_score,content_score
+Artificial intelligence,1,Beginning Your Journey to Implementing Artificial Intelligence | SoftwareONE Blog,Beginning Your Journey to Implementing Artificial Intelligence,Gérer les éditeurs grâce à des services de conseil,https://www.softwareone.com/fr-fr/blog/articles/2021/04/05/implementing-artificial-intelligence-part-1,776000000.0,80,25,50
+Artificial intelligence,2,Artificial intelligence - Wikipedia,Artificial intelligence,"
+",https://en.wikipedia.org/wiki/Artificial_intelligence,776000000.0,63,14,79
+Artificial intelligence,3,Artificial general intelligence - Wikipedia,Artificial general intelligence,"
+",https://en.wikipedia.org/wiki/Artificial_general_intelligence,776000000.0,60,25,89
+Artificial intelligence,4,Symbolic artificial intelligence - Wikipedia,Symbolic artificial intelligence,"Symbolic artificial intelligence is the term for the collection of all methods in artificial intelligence research that are based on high-level ""symbolic"" (human-readable) representations of problems, logic and search. Symbolic AI was the dominant paradigm of AI research from the mid-1950s until the late 1980s.[1][page needed][2][page needed]
+",https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence,776000000.0,83,21,86
+Artificial intelligence,5,Philosophy of artificial intelligence - Wikipedia,Philosophy of artificial intelligence,"The philosophy of artificial intelligence is a branch of the philosophy of technology that explores artificial intelligence and its implications for knowledge and understanding of intelligence, ethics, consciousness, epistemology, and free will.[1] Furthermore, the technology is concerned with the creation of artificial animals or artificial people (or, at least, artificial creatures; see artificial life) so the discipline is of considerable interest to philosophers.[2] These factors contributed to the emergence of the philosophy of artificial intelligence. Some scholars argue that the AI community's dismissal of philosophy is detrimental.[3]
+",https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence,776000000.0,68,24,56
+Artificial intelligence,6,Artificial Intelligence (AI) Definition,"
+Artificial Intelligence (AI)",Jake Frankenfield is an experienced writer on a wide range of business news topics and his work has been featured on Investopedia and The New York Times among others.,https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp,776000000.0,67,11,54
+Artificial intelligence,7,Machine Learning Definition,"
+Machine Learning",Jake Frankenfield is an experienced writer on a wide range of business news topics and his work has been featured on Investopedia and The New York Times among others.,https://www.investopedia.com/terms/m/machine-learning.asp,776000000.0,67,9,84
+Artificial intelligence,8,Deep Learning Definition,"
+Deep Learning","
+Deep learning is an artificial intelligence (AI) function that imitates the workings of the human brain in processing data and creating patterns for use in decision making. Deep learning is a subset of machine learning in artificial intelligence that has networks capable of learning unsupervised from data that is unstructured or unlabeled. Also known as deep neural learning or deep neural network.
+",https://www.investopedia.com/terms/d/deep-learning.asp,776000000.0,64,16,63
+Artificial intelligence,9,Weak AI Definition,"
+Weak AI",Jake Frankenfield is an experienced writer on a wide range of business news topics and his work has been featured on Investopedia and The New York Times among others.,https://www.investopedia.com/terms/w/weak-ai.asp,776000000.0,83,29,82
+Artificial intelligence,10,Strong AI,"
+Strong AI",Jake Frankenfield is an experienced writer on a wide range of business news topics and his work has been featured on Investopedia and The New York Times among others.,https://www.investopedia.com/terms/s/strong-ai.asp,776000000.0,63,10,66
+Artificial intelligence,11,Access denied | builtin.com used Cloudflare to restrict access,"
+Error
+1020
+",This website is using a security service to protect itself from online attacks.,https://builtin.com/artificial-intelligence,776000000.0,81,22,58
+Artificial intelligence,12,"artificial intelligence | Definition, Examples, and Applications | Britannica",Artificial intelligence,Our editors will review what you’ve submitted and determine whether to revise the article.,https://www.britannica.com/technology/artificial-intelligence,776000000.0,83,29,72
+Artificial intelligence,13,Benefits & Risks of Artificial Intelligence - Future of Life Institute,Benefits & Risks of Artificial Intelligence,"“Everything we love about civilization is a product of intelligence, so amplifying our human intelligence with artificial intelligence has the potential of helping civilization flourish like never before – as long as we manage to keep the technology beneficial.“",https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/,776000000.0,88,21,54
+Artificial intelligence,14,Artificial Intelligence – What it is and why it matters | SAS,Artificial Intelligence,Skip to main content,https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html,776000000.0,77,5,65
+Artificial intelligence,15,Association for the Advancement of Artificial Intelligence,Association for the Advancement of Artificial Intelligence, ,https://www.aaai.org/,776000000.0,62,24,73
+Artificial intelligence,16,What is Artificial Intelligence (AI)?  | IBM,"  Artificial Intelligence (AI)
+","While a number of definitions of artificial intelligence (AI) have surfaced over the last few decades, John McCarthy offers the following definition in this 2004 paper (PDF, 106 KB) (link resides outside IBM), "" It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable.""",https://www.ibm.com/cloud/learn/what-is-artificial-intelligence,776000000.0,78,15,68
+Artificial intelligence,17,What is AI? Everything you need to know about Artificial Intelligence | ZDNet,What is AI? Everything you need to know about Artificial Intelligence,"An executive guide to artificial intelligence, from machine learning and general AI to neural networks.",https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/,776000000.0,73,20,60
+Artificial intelligence,18,What is artificial intelligence?,What is artificial intelligence?,Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »,https://www.brookings.edu/research/what-is-artificial-intelligence/,776000000.0,61,5,78
+Artificial intelligence,19,What is Artificial Intelligence (AI)?,artificial intelligence ,"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing (NLP), speech recognition and machine vision.",https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence,776000000.0,60,8,84
+Artificial intelligence,20,"
+Artificial Intelligence (Stanford Encyclopedia of Philosophy)
+",Artificial Intelligence,"
+Artificial intelligence (AI) is the field devoted to building
+artificial animals (or at least artificial creatures that – in
+suitable contexts – appear to be animals) and, for
+many, artificial persons (or at least artificial creatures that
+– in suitable contexts – appear to be
+ persons).[1]
+ Such goals immediately ensure that AI is a discipline of considerable
+interest to many philosophers, and this has been confirmed (e.g.) by
+the energetic attempt, on the part of numerous philosophers, to show
+that these goals are in fact un/attainable. On the constructive side,
+many of the core formalisms and techniques used in AI come out of, and
+are indeed still much used and refined in, philosophy: first-order
+logic and its extensions; intensional logics suitable for the modeling
+of doxastic attitudes and deontic reasoning; inductive logic,
+probability theory, and probabilistic reasoning; practical reasoning
+and planning, and so on. In light of this, some philosophers conduct
+AI research and development as philosophy. ",https://plato.stanford.edu/entries/artificial-intelligence/,776000000.0,62,16,95
+Artificial intelligence,21,"What is Artificial Intelligence? How Does AI Work, Applications and Future?","What is Artificial Intelligence? How does AI work, Types and Future of it?","The intelligence demonstrated by machines is known as Artificial Intelligence. Artificial Intelligence has grown to be very popular in today’s world. It is the simulation of natural intelligence in machines that are programmed to learn and mimic the actions of humans. These machines are able to learn with experience and perform human-like tasks. As technologies such as AI continue to grow, they will have a great impact on our quality of life. It’s but natural that everyone today wants to connect with AI technology somehow, may it be as an end-user or pursuing a career in Artificial Intelligence.",https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/,776000000.0,66,30,69
+Artificial intelligence,22,Artificial Intelligence - Journal - Elsevier,Artificial Intelligence,"
+                    Once production of your article has started, you can track the status of your article via Track Your Accepted Article.
+",https://www.journals.elsevier.com/artificial-intelligence,776000000.0,67,14,89
+Artificial intelligence,23,Learn Artificial Intelligence with Online Courses and Lessons | edX,Artificial Intelligence Courses,"Explore the fascinating and fast-moving field of artificial intelligence with online courses. Learn artificial intelligence by studying natural language processing, reinforcement learning, predictive analytics, deep neural networks, image processing, the human brain, and more today!",https://www.edx.org/learn/artificial-intelligence,776000000.0,76,12,91
+Artificial intelligence,24,How artificial intelligence is transforming the world,How artificial intelligence is transforming the world,Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »,https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/,776000000.0,79,6,83
+Artificial intelligence,25,A.I. Artificial Intelligence - Wikipedia,A.I. Artificial Intelligence,"
+",https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence,776000000.0,60,12,50
+Classification,1,Classification | Definition of Classification by Merriam-Webster,classification,,https://www.merriam-webster.com/dictionary/classification,901000000.0,77,23,92
+Classification,2,Classification - Wikipedia,Classification,"Classification is a process related to categorization, the process in which ideas and objects are recognized, differentiated and understood. See Classification (general theory)
+",https://en.wikipedia.org/wiki/Classification,901000000.0,66,7,85
+Classification,3,Statistical classification - Wikipedia,Statistical classification,"In statistics, classification is the problem of identifying to which of a set of categories (sub-populations) an observation, (or observations) belongs to.  Examples are assigning a given email to the ""spam"" or ""non-spam"" class, and assigning a diagnosis to a given patient based on observed characteristics of the patient (sex, blood pressure, presence or absence of certain symptoms, etc.).
+",https://en.wikipedia.org/wiki/Statistical_classification,901000000.0,82,7,69
+Classification,4,Classification (general theory) - Wikipedia,Classification (general theory),"The term classification can apply to one or all of:
+",https://en.wikipedia.org/wiki/Classification_(general_theory),901000000.0,80,28,92
+Classification,5,Document classification - Wikipedia,Document classification,"Document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories. This may be done ""manually"" (or ""intellectually"") or algorithmically. The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is therefore interdisciplinary research on document classification.
+",https://en.wikipedia.org/wiki/Document_classification,901000000.0,82,20,56
+Classification,6,Medical classification - Wikipedia,Medical classification,"A medical classification is used to transform descriptions of medical diagnoses or procedures into standardized statistical code in a process known as clinical coding. Diagnosis classifications list diagnosis codes, which are used to track diseases and other health conditions, inclusive of chronic diseases such as diabetes mellitus and heart disease, and infectious diseases such as norovirus, the flu, and athlete's foot. Procedure classifications list procedure code, which are used to capture interventional data. These diagnosis and procedure codes are used by health care providers, government health programs, private health insurance companies, workers' compensation carriers, software developers, and others for a variety of applications in medicine, public health and medical informatics, including:
+",https://en.wikipedia.org/wiki/Medical_classification,901000000.0,77,7,58
+Classification,7,CLASSIFICATION | meaning in the Cambridge English Dictionary,Meaning of classification in English,Your browser doesn't support HTML5 audio,https://dictionary.cambridge.org/dictionary/english/classification,901000000.0,73,29,66
+Classification,8,Classification | biology | Britannica,Classification,Our editors will review what you’ve submitted and determine whether to revise the article.,https://www.britannica.com/science/classification-biology,901000000.0,67,22,57
+Classification,9,Classification - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=DVouQRAKxYo,901000000.0,74,29,56
+Classification,10,Classification | Definition of Classification at Dictionary.com,classification,"This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s latest move to be woke.",https://www.dictionary.com/browse/classification,901000000.0,78,9,85
+Classification,11,Classification definition and meaning | Collins English Dictionary,Definition of 'classification',"
+View usage for:
+
+All Years
+Last 10 years
+Last 50 years
+Last 100 years
+Last 300 years
+
+",https://www.collinsdictionary.com/dictionary/english/classification,901000000.0,68,9,59
+Classification,12,CLASSIFICATION Synonyms: 45 Synonyms & Antonyms for CLASSIFICATION | Thesaurus.com,classification,See how your sentence looks with different synonyms.,https://www.thesaurus.com/browse/classification,901000000.0,85,26,67
+Classification,13,Classification - BrainPOP,h1 not found,Snippet not found,https://www.brainpop.com/science/diversityoflife/classification/,901000000.0,87,20,68
+Classification,14,"
+	Classifications
+",Classifications,"How healthy is the world?  ­­How are people getting sick, and how do they die?  How is the health system responding?",https://www.who.int/standards/classifications,901000000.0,60,22,88
+Classification,15,American Economic Association: JEL Codes,,"Copyright 2021 American Economic Association. All
+    rights reserved.",https://www.aeaweb.org/econlit/jelCodes.php,901000000.0,84,10,63
+Classification,16,What is classification? - BBC Bitesize,What is classification?,,https://www.bbc.co.uk/bitesize/topics/zn22pv4/articles/z3nbcwx,901000000.0,85,13,95
+Classification,17,Nice Classification,List of Goods and Services in Class Order,"
+NCLPUB v3.2.31
+                        ",https://www.wipo.int/classifications/nice/nclpub,901000000.0,65,21,71
+Classification,18,Standard Industrial Classification (SIC) System Search | Occupational Safety and Health Administration,"
+Department of Labor logo
+UNITED STATESDEPARTMENT OF LABOR","
+English
+Español
+",https://www.osha.gov/data/sic-search,901000000.0,82,24,63
+Classification,19,Machine Learning Classifiers. What is classification? | by Sidath Asiri | Towards Data Science,Machine Learning Classifiers,Sign in,https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623,901000000.0,73,18,93
+Classification,20,Classifications - Eurostat,Navigation,A wide range of statistical classifications or nomenclatures is used on a European level. The application of specific classifications depends on the statistical domain or data collection.,https://ec.europa.eu/eurostat/data/classifications,901000000.0,70,11,90
+Classification,21,Safer and Cleaner Shipping - IACS,Safer and Cleaner Shipping,"Urgent Rule Change Proposal 1 (URCP 1) to the Common Structural Rules (CSR for BC & OT), 01 January 2021 version has been released by the International Association of Classification Societies (IACS).",https://www.iacs.org.uk/,901000000.0,68,22,66
+Classification,22,North American Industry Classification System (NAICS) U.S. Census Bureau,"
+                North American Industry Classification System - NAICS
+","The North American Industry Classification System (NAICS) is the standard used by Federal
+                        statistical
+                        agencies in classifying business establishments for the purpose of collecting, analyzing, and
+                        publishing
+                        statistical data related to the U.S. business economy.",https://www.census.gov/naics,901000000.0,64,29,82
+Classification,23,4 Types of Classification Tasks in Machine Learning,4 Types of Classification Tasks in Machine Learning,"Last Updated on August 19, 2020",https://machinelearningmastery.com/types-of-classification-in-machine-learning/,901000000.0,66,28,81
+Classification,24,Home | BBFC,,"Here is a rough guide for parents, focusing on the most common words that are likely to be acceptable at U, PG and 12A/12.",https://www.bbfc.co.uk/,901000000.0,90,27,66
+Classification,25,Carnegie Classifications | Home Page,News & Announcements,"
+
+The Carnegie Classification of Institutions of Higher Education ®
+The Carnegie Classification of Institutions ®
+Carnegie Classification ®
+
+",https://carnegieclassifications.iu.edu/,901000000.0,84,11,53
+Clustering,1,Clustering | Types Of Clustering | Clustering Applications,An Introduction to Clustering and different methods of clustering,,https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/?sa=X&ved=2ahUKEwikisKi043xAhVEyzgGHV_iAOwQ9QF6BAgbEAI,47700000.0,70,27,55
+Clustering,2,Clustering | Types Of Clustering | Clustering Applications,An Introduction to Clustering and different methods of clustering,,https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/,47700000.0,63,14,90
+Clustering,3,Cluster analysis - Wikipedia,Cluster analysis,"Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters). It is a main task of exploratory data analysis, and a common technique for statistical data analysis, used in many fields, including pattern recognition, image analysis, information retrieval, bioinformatics, data compression, computer graphics and machine learning.
+",https://en.wikipedia.org/wiki/Cluster_analysis,47700000.0,62,17,77
+Clustering,4,Hierarchical clustering - Wikipedia,Hierarchical clustering,"In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types:[1]
+",https://en.wikipedia.org/wiki/Hierarchical_clustering,47700000.0,72,26,67
+Clustering,5,DBSCAN - Wikipedia,DBSCAN,"Density-based spatial clustering of applications with noise (DBSCAN) is a data clustering algorithm proposed by Martin Ester, Hans-Peter Kriegel, Jörg Sander and Xiaowei Xu in 1996.[1]
+It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together (points with many nearby neighbors), marking as outliers points that lie alone in low-density regions (whose nearest neighbors are too far away).
+DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature.[2]
+",https://en.wikipedia.org/wiki/DBSCAN,47700000.0,63,25,52
+Clustering,6,OPTICS algorithm - Wikipedia,OPTICS algorithm,"Ordering points to identify the clustering structure (OPTICS) is an algorithm for finding density-based[1] clusters in spatial data. It was presented by Mihael Ankerst, Markus M. Breunig, Hans-Peter Kriegel and Jörg Sander.[2]
+Its basic idea is similar to DBSCAN,[3] but it addresses one of DBSCAN's major weaknesses: the problem of detecting meaningful clusters in data of varying density. To do so, the points of the database are (linearly) ordered such that spatially closest points become neighbors in the ordering. Additionally, a special distance is stored for each point that represents the density that must be accepted for a cluster so that both points belong to the same cluster. This is represented as a dendrogram.
+",https://en.wikipedia.org/wiki/OPTICS_algorithm,47700000.0,71,16,50
+Clustering,7,Category:Cluster analysis algorithms - Wikipedia,Category:Cluster analysis algorithms,"This category contains algorithms used for cluster analysis.
+",https://en.wikipedia.org/wiki/Category:Cluster_analysis_algorithms,47700000.0,87,19,71
+Clustering,8,Clustering in Machine Learning - GeeksforGeeks,h1 not found,Introduction to Clustering,https://www.geeksforgeeks.org/clustering-in-machine-learning/,47700000.0,71,21,58
+Clustering,9,The 5 Clustering Algorithms Data Scientists Need to Know | by George Seif | Towards Data Science,The 5 Clustering Algorithms Data Scientists Need to Know,Sign in,https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68,47700000.0,79,19,90
+Clustering,10,2.3. Clustering — scikit-learn 0.24.2 documentation,2.3. Clustering¶,"
+scikit-learn 0.24.2
+Other versions
+",http://scikit-learn.org/stable/modules/clustering.html,47700000.0,68,8,66
+Clustering,11,10 Clustering Algorithms With Python,10 Clustering Algorithms With Python,"Last Updated on August 20, 2020",https://machinelearningmastery.com/clustering-algorithms-with-python/,47700000.0,85,12,60
+Clustering,12,Clustering in Machine Learning - Javatpoint,Clustering in Machine Learning,"Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as ""A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group.""",https://www.javatpoint.com/clustering-in-machine-learning,47700000.0,61,12,78
+Clustering,13,Machine Learning — Clustering ( Kümeleme )— K-Means Algorithm —Hierarchical Clustering ( Hiyerarşik Kümeleme )— Part 13 | by Ekrem Hatipoglu | Medium,Machine Learning — Clustering ( Kümeleme )— K-Means Algorithm —Hierarchical Clustering ( Hiyerarşik Kümeleme )— Part 13,Sign in,https://medium.com/@ekrem.hatipoglu/machine-learning-clustering-k%C3%BCmeleme-k-means-algorithm-part-13-be33aeef4fc8,47700000.0,83,7,85
+Clustering,14,Clustering - PyCaret,Clustering Module,"This documentation is only updated for major releases. To see the most recent documentation, Click Here",https://pycaret.org/clustering/,47700000.0,74,15,95
+Clustering,15,CS221,h1 not found,"
+				Written by Chris Piech. Based on a handout by Andrew Ng.
+			",https://stanford.edu/~cpiech/cs221/handouts/kmeans.html,47700000.0,77,5,77
+Clustering,16,5 Clustering | Modern Statistics for Modern Biology,"
+5 Clustering",Modern Statistics for Modern Biology,https://web.stanford.edu/class/bios221/book/Chap-Clustering.html,47700000.0,63,23,85
+Clustering,17,k-means clustering - MATLAB kmeans,kmeans,DocumentationHelp CenterDocumentation,https://www.mathworks.com/help/stats/kmeans.html,47700000.0,89,22,50
+Clustering,18,Cluster Analysis and Clustering Algorithms - MATLAB & Simulink,"
+				
+				Cluster Analysis
+			","Cluster analysis involves applying clustering algorithms with the goal of finding hidden patterns or groupings in a dataset. It is therefore used frequently in exploratory data analysis, but is also used for anomaly detection and preprocessing for supervised learning.",https://www.mathworks.com/discovery/cluster-analysis.html,47700000.0,72,12,57
+Clustering,19,"Clustering Algorithms: K-Means, EMC and Affinity Propagation | Toptal",Clustering Algorithms: From Start To State Of The Art,"It’s not a bad time to be a Data Scientist. Serious people may find interest in you if you turn the conversation towards “Big Data”, and the rest of the party crowd will be intrigued when you mention “Artificial Intelligence” and “Machine Learning”. Even Google thinks you’re not bad, and that you’re getting even better. There are a lot of ‘smart’ algorithms that help data scientists do their wizardry. It may all seem complicated, but if we understand and organize algorithms a bit, it’s not even that hard to find and apply the one that we need.",https://www.toptal.com/machine-learning/clustering-algorithms,47700000.0,62,23,54
+Clustering,20,Clustering methods for large molecular library screening | Pharmacelera,Clustering methods for large molecular library screening,"Today, the amount of data generated in many fields such as engineering, social sciences or medicine is suffering a tremendous scale-up. Extraction of relevant information is hence becoming increasingly challenging, and methods of data analysis such as clustering are now crucial. Clustering consists on the identification of homogeneous subgroups among a set of heterogeneous items. In the context of computer-aided drug discovery, where the chemical space is estimated to be 1063 compounds, we can use it to select promising subgroups inside a large chemical library, getting rid of the bulk of the dataset with either no medical interest or redundancy a priori.",https://new.pharmacelera.com/science/clustering-methods-big-library-screening/,47700000.0,77,12,94
+Clustering,21,Introduction to Clustering - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=4cxVDUybHrI,47700000.0,69,5,59
+Clustering,22,Cluster Validation Statistics: Must Know Methods - Datanovia,Cluster Validation Essentials,  30 mins ,https://www.datanovia.com/en/lessons/cluster-validation-statistics-must-know-methods/,47700000.0,86,7,84
+Clustering,23," Clustering Guide
+ — RabbitMQ"," Clustering Guide
+",This guide covers fundamental topics related to RabbitMQ clustering:,https://www.rabbitmq.com/clustering.html,47700000.0,80,27,52
+Clustering,24,Clustering - Introduction,h1 not found,"A Tutorial 
+    on Clustering Algorithms",https://matteucci.faculty.polimi.it/Clustering/tutorial_html/index.html,47700000.0,79,25,73
+Clustering,25,  What is Hierarchical Clustering? - KDnuggets,KDnuggets,"
+     The article contains a brief introduction to various concepts related to Hierarchical clustering algorithm.
+  ",https://www.kdnuggets.com/2019/09/hierarchical-clustering.html,47700000.0,88,6,87
+Convolutional neural network,1,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way | by Sumit Saha | Towards Data Science,A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way,Sign in,https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53,9430000.0,87,12,85
+Convolutional neural network,2,Convolutional neural network - Wikipedia,Convolutional neural network,"In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural network, most commonly applied to analyze visual imagery.[1] They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation equivariant responses known as feature maps.[2][3]  Counter-intuitively, most convolutional neural networks are only equivariant, as opposed to invariant, to translation.[4] They have applications in image and video recognition, recommender systems,[5] image classification, image segmentation, medical image analysis, natural language processing,[6] brain-computer interfaces,[7] and financial time series.[8]
+",https://en.wikipedia.org/wiki/Convolutional_neural_network,9430000.0,71,7,59
+Convolutional neural network,3,Multilayer perceptron - Wikipedia,Multilayer perceptron,"A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN). The term MLP is used ambiguously, sometimes loosely to any feedforward ANN, sometimes strictly to refer to networks composed of multiple layers of perceptrons (with threshold activation); see § Terminology. Multilayer perceptrons are sometimes colloquially referred to as ""vanilla"" neural networks, especially when they have a single hidden layer.[1]
+",https://en.wikipedia.org/wiki/Multilayer_perceptron,9430000.0,78,6,77
+Convolutional neural network,4,Equivariant map - Wikipedia,Equivariant map,"In mathematics, equivariance is a form of symmetry for functions from one space with symmetry to another (such as symmetric spaces). A function is said to be an equivariant map when its domain and codomain are acted on by the same symmetry group, and when the function commutes with the action of the group. That is, applying a symmetry transformation and then computing the function produces the same result as computing the function and then applying the transformation.
+",https://en.wikipedia.org/wiki/Equivariant_map,9430000.0,66,15,58
+Convolutional neural network,5,LeNet - Wikipedia,LeNet,"LeNet is a convolutional neural network structure proposed by Yann LeCun et al. in 1989. In general, LeNet refers to LeNet-5 and is a simple convolutional neural network. Convolutional neural networks are a kind of feed-forward neural network whose artificial neurons can respond to a part of the surrounding cells in the coverage range and perform well in large-scale image processing.
+",https://en.wikipedia.org/wiki/LeNet,9430000.0,82,7,52
+Convolutional neural network,6,Receptive field - Wikipedia,Receptive field,"The receptive field, or sensory space, is a delimited medium where some physiological stimuli can evoke a sensory neuronal response in specific organisms.[1]
+",https://en.wikipedia.org/wiki/Receptive_field,9430000.0,62,21,69
+Convolutional neural network,7,CS231n Convolutional Neural Networks for Visual Recognition,,Table of Contents:,https://cs231n.github.io/convolutional-networks/,9430000.0,61,12,73
+Convolutional neural network,8,CS231n Convolutional Neural Networks for Visual Recognition,,Table of Contents:,https://cs231n.github.io/convolutional-networks/#layers,9430000.0,81,13,52
+Convolutional neural network,9,CS231n Convolutional Neural Networks for Visual Recognition,,Table of Contents:,https://cs231n.github.io/convolutional-networks/#conv,9430000.0,67,26,72
+Convolutional neural network,10,CS231n Convolutional Neural Networks for Visual Recognition,,Table of Contents:,https://cs231n.github.io/convolutional-networks/#pool,9430000.0,84,20,63
+Convolutional neural network,11,CS231n Convolutional Neural Networks for Visual Recognition,,Table of Contents:,https://cs231n.github.io/convolutional-networks/#architectures,9430000.0,69,11,93
+Convolutional neural network,12,What are convolutional neural networks (CNN)? – TechTalks,What are convolutional neural networks (CNN)?,"This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.",https://bdtechtalks.com/2020/01/06/convolutional-neural-networks-cnn-convnets/,9430000.0,62,22,65
+Convolutional neural network,13,How Do Convolutional Layers Work in Deep Learning Neural Networks?,How Do Convolutional Layers Work in Deep Learning Neural Networks?,"Last Updated on April 17, 2020",https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/,9430000.0,87,9,92
+Convolutional neural network,14,CNN for Deep Learning | Convolutional Neural Networks (CNN),Convolutional Neural Networks (CNN),,https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/,9430000.0,67,28,56
+Convolutional neural network,15,Convolutional Neural Network - an overview | ScienceDirect Topics,Convolutional Neural Network,"CNN is well-known for robustness to small inputs variations, minimal pre-processing and no requirement for any specific feature extractor choice.",https://www.sciencedirect.com/topics/engineering/convolutional-neural-network,9430000.0,87,23,72
+Convolutional neural network,16,CS 230 - Convolutional Neural Networks Cheatsheet,"
+Convolutional Neural Networks cheatsheet
+  Star
+",Shervine Amidi,https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks,9430000.0,63,23,85
+Convolutional neural network,17,What are Convolutional Neural Networks?  | IBM,"  Convolutional Neural Networks
+","To reiterate from the Neural Networks Learn Hub article, neural networks are a subset of machine learning, and they are at the heart of deep learning algorithms. They are comprised of node layers, containing an input layer, one or more hidden layers, and an output layer. Each node connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated, sending data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.",https://www.ibm.com/cloud/learn/convolutional-neural-networks,9430000.0,72,20,76
+Convolutional neural network,18,Convolutional Neural Network - MATLAB & Simulink,"
+				
+				Convolutional Neural Networks
+			", ,https://www.mathworks.com/discovery/convolutional-neural-network-matlab.html,9430000.0,68,12,89
+Convolutional neural network,19,Convolutional Neural Networks | Coursera,Convolutional Neural Networks,This course is part of the Deep Learning Specialization,https://www.coursera.org/learn/convolutional-neural-networks,9430000.0,74,30,59
+Convolutional neural network,20,Convolutional neural networks: an overview and application in radiology | Insights into Imaging | Full Text,Convolutional neural networks: an overview and application in radiology,Advertisement,https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0639-9,9430000.0,80,20,65
+Convolutional neural network,21,Attention Required! | Cloudflare,One more step,"Please stand by, while we are checking your browser...",https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python,9430000.0,86,30,60
+Convolutional neural network,22,"Convolutional Neural Network (ConvNet yada CNN) nedir, nasıl çalışır? | by Tuncer Ergin | Medium","Convolutional Neural Network (ConvNet yada CNN) nedir, nasıl çalışır?",Sign in,https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yada-cnn-nedir-nasil-calisir-97a0f5d34cad,9430000.0,71,18,61
+Convolutional neural network,23,Understanding of Convolutional Neural Network (CNN) — Deep Learning | by Prabhu | Medium,Understanding of Convolutional Neural Network (CNN) — Deep Learning,Sign in,https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148,9430000.0,65,11,76
+Convolutional neural network,24,Convolutional Neural Networks (CNNs) explained - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=YRhxdVk_sIs,9430000.0,71,8,51
+Convolutional neural network,25,Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python) - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=zfiSAzpy9NM,9430000.0,71,8,61
+Data science,1,The emergence of data science in PE - KPMG Global,The emergence of data science in PE,China's fintech goes overseas.,https://home.kpmg/xx/en/home/insights/2019/07/the-emergence-of-data-science-in-pe.html,3290000000.0,66,26,71
+Data science,2,Data science - Wikipedia,Data science,"
+",https://en.wikipedia.org/wiki/Data_science,3290000000.0,81,18,76
+Data science,3,Master in Data Science - Wikipedia,Master in Data Science,"A Master of Science in Data Science is an interdisciplinary degree program designed to provide studies in scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured,[1][2] similar to data mining.
+",https://en.wikipedia.org/wiki/Master_in_Data_Science,3290000000.0,68,16,92
+Data science,4,Big data - Wikipedia,Big data,"
+",https://en.wikipedia.org/wiki/Big_data,3290000000.0,82,18,65
+Data science,5,Unstructured data - Wikipedia,Unstructured data,"Unstructured data (or unstructured information) is information that either does not have a pre-defined data model or is not organized in a pre-defined manner. Unstructured information is typically text-heavy, but may contain data such as dates, numbers, and facts as well. This results in irregularities and ambiguities that make it difficult to understand using traditional programs as compared to data stored in fielded form in databases or annotated (semantically tagged) in documents.
+",https://en.wikipedia.org/wiki/Unstructured_data,3290000000.0,89,18,67
+Data science,6,Information science - Wikipedia,Information science,"Information science (also known as information studies) is an academic field which is primarily concerned with analysis, collection, classification, manipulation, storage, retrieval, movement, dissemination, and protection of information.[1] Practitioners within and outside the field study the  application and the usage of knowledge in organizations in addition to the interaction between people, organizations, and any existing information systems with the aim of creating, replacing, improving, or understanding information systems. Historically, information science is associated with computer science, data science, psychology, technology, and intelligence agencies.[2] However, information science also incorporates aspects of diverse fields such as archival science, cognitive science, commerce, law, linguistics, museology, management, mathematics, philosophy, public policy, and social sciences.
+",https://en.wikipedia.org/wiki/Information_science,3290000000.0,81,19,60
+Data science,7,"Data Science: Online Courses from Harvard, MIT, Microsoft | edX",Data science courses on edX,"Real college courses from Harvard, MIT, and more of the worldâs leading universities.",https://www.edx.org/course/subject/data-science,3290000000.0,80,28,94
+Data science,8,Data Science | Coursera,h1 not found,"Use R to clean, analyze, and visualize data.",https://www.coursera.org/specializations/jhu-data-science,3290000000.0,62,6,56
+Data science,9,Data Science | Coursera,Data Science Specialization,"Launch Your Career in Data Science. A ten-course introduction to data science, developed and taught by leading professors.",https://www.coursera.org/specializations/jhu-data-science#instructors,3290000000.0,79,26,74
+Data science,10,Data Science | Coursera,Data Science Specialization,"Launch Your Career in Data Science. A ten-course introduction to data science, developed and taught by leading professors.",https://www.coursera.org/specializations/jhu-data-science#enroll,3290000000.0,80,25,52
+Data science,11,Data Science Courses Online | Coursera,Data Science,"Data science Specializations and courses teach the fundamentals of interpreting data, performing analyses, and understanding and communicating actionable insights. Topics of study for beginning and advanced learners include qualitative and quantitative data analysis, tools and methods for data manipulation, and machine learning algorithms.",https://www.coursera.org/browse/data-science,3290000000.0,65,25,80
+Data science,12,What is Data Science? | The Data Science Career Path,What is Data Science?,Home / Data Science / What is Data Science?,https://ischoolonline.berkeley.edu/data-science/what-is-data-science/,3290000000.0,77,8,64
+Data science,13,"
+    Top Data Science Courses Online - Updated [June 2021]
+ | Udemy",Data Science Courses,"5,156,496 learners",https://www.udemy.com/topic/data-science/,3290000000.0,83,6,62
+Data science,14,Data Science Training Course: Data Scientist Bootcamp | Udemy,"
+The Data Science Course 2021: Complete Data Science Bootcamp
+",The Problem,https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/,3290000000.0,67,17,79
+Data science,15,What is Data Science and its Importance in 2021,What is Data Science and its Importance in 2021,,https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science,3290000000.0,65,28,72
+Data science,16,Learn to Become a Data Scientist Online,Become a Data Scientist,At 10 hrs/week ,https://www.udacity.com/course/data-scientist-nanodegree--nd025,3290000000.0,74,15,69
+Data science,17,Access denied | builtin.com used Cloudflare to restrict access,"
+Error
+1020
+",This website is using a security service to protect itself from online attacks.,https://builtin.com/data-science,3290000000.0,72,30,64
+Data science,18,Data Science In 5 Minutes | Data Science For Beginners | What Is Data Science? | Simplilearn - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=X3paOmcrTjQ,3290000000.0,68,8,64
+Data science,19,What Is Data Science? A Beginner's Guide To Data Science | Edureka,What Is Data Science? A Beginner’s Guide To Data Science,"As the world entered the era of big data, the need for its storage also grew. It was the main challenge and concern for the enterprise industries until 2010. The main focus was on building a framework and solutions to store data. Now when Hadoop and other frameworks have successfully solved the problem of storage, the focus has shifted to the processing of this data. Data Science is the secret sauce here. All the ideas which you see in Hollywood sci-fi movies can actually turn into reality by Data Science. Data Science is the future of Artificial Intelligence. Therefore, it is very important to understand what is Data Science and how can it add value to your business.",https://www.edureka.co/blog/what-is-data-science/,3290000000.0,89,12,51
+Data science,20,What Is Data Science Definition | Learn Why Data Science Is Important,Data Science,"Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value.",https://www.datarobot.com/wiki/data-science/,3290000000.0,80,11,92
+Data science,21,Online Data Science Courses | Harvard University,"
+                Harvard Online Courses              ",Snippet not found,https://online-learning.harvard.edu/subject/data-science,3290000000.0,82,11,62
+Data science,22,What is Data Science? | Oracle Nigeria,Data Science Defined,Your search did not match any results.,https://www.oracle.com/ng/data-science/what-is-data-science/,3290000000.0,77,22,75
+Data science,23,Data Science | Codecademy,career PathData Scientist,"Companies are looking for data-driven decision makers, and this Career Path will teach you the skills you need to become just that. You'll learn to analyze data, communicate your findings, and even draw predictions using machine learning. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.",https://www.codecademy.com/learn/paths/data-science,3290000000.0,67,19,71
+Data science,24,Data Analytics | Sabancı University,"Data Analytics 
+
+
+
+                ",info@sabanciuniv.eduKurumsal E-Posta (KEP) sabanciuniversitesi@hs03.kep.tr,https://www.sabanciuniv.edu/en/data-analytics,3290000000.0,81,9,67
+Data science,25,Data Science Central,,,https://www.datasciencecentral.com/,3290000000.0,70,18,54
+Deep learning,1,Deep Learning Definition,"
+Deep Learning","
+Deep learning is an artificial intelligence (AI) function that imitates the workings of the human brain in processing data and creating patterns for use in decision making. Deep learning is a subset of machine learning in artificial intelligence that has networks capable of learning unsupervised from data that is unstructured or unlabeled. Also known as deep neural learning or deep neural network.
+",https://www.investopedia.com/terms/d/deep-learning.asp,2050000000.0,86,10,67
+Deep learning,2,Deep learning - Wikipedia,Deep learning,"Deep learning  (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.[1][2][3]
+",https://en.wikipedia.org/wiki/Deep_learning,2050000000.0,84,13,72
+Deep learning,3,Feature learning - Wikipedia,Feature learning,"In machine learning, feature learning or representation learning[1] is a set of techniques that allows a system to automatically discover the representations needed for feature detection or classification from raw data. This replaces manual feature engineering and allows a machine to both learn the features  and use them to perform  a specific task.
+",https://en.wikipedia.org/wiki/Feature_learning,2050000000.0,84,19,91
+Deep learning,4,Deep belief network - Wikipedia,Deep belief network,"In machine learning, a deep belief network (DBN) is a generative graphical model, or alternatively a class of deep neural network, composed of multiple layers of latent variables (""hidden units""), with connections between the layers but not between units within each layer.[1]
+",https://en.wikipedia.org/wiki/Deep_belief_network,2050000000.0,61,12,82
+Deep learning,5,Universal approximation theorem - Wikipedia,Universal approximation theorem,"In the mathematical theory of artificial neural networks, universal approximation theorems are results[1] that establish the density of an algorithmically generated class of functions within a given function space of interest.  Typically, these results concern the approximation capabilities of the feedforward architecture on the space of continuous functions between two Euclidean spaces, and the approximation is with respect to the compact convergence topology.  However, there are also a variety of results between non-Euclidean spaces[2] and other commonly used architectures and, more generally, algorithmically generated sets of functions, such as the convolutional neural network (CNN) architecture,[3][4] radial basis-functions,[5] or neural networks with specific properties.[6] Most universal approximation theorems can be parsed into two classes. The first quantifies the approximation capabilities of neural networks with an arbitrary number of artificial neurons (""arbitrary width"" case) and the second focuses on the case with an arbitrary number of hidden layers, each containing a limited number of artificial neurons (""arbitrary depth"" case).
+",https://en.wikipedia.org/wiki/Universal_approximation_theorem,2050000000.0,67,7,75
+Deep learning,6,What is Deep Learning?,What is Deep Learning?,"Last Updated on August 14, 2020",https://machinelearningmastery.com/what-is-deep-learning/,2050000000.0,86,19,93
+Deep learning,7,Deep Learning | Coursera,h1 not found,"Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications",https://www.coursera.org/specializations/deep-learning,2050000000.0,61,30,84
+Deep learning,8,Deep Learning | Coursera,h1 not found,"Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications",https://www.coursera.org/specializations/deep-learning#instructors,2050000000.0,85,22,71
+Deep learning,9,Deep Learning | Coursera,h1 not found,"Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications",https://www.coursera.org/specializations/deep-learning#enroll,2050000000.0,70,8,51
+Deep learning,10,Please Wait... | Cloudflare,Please wait...,"Please stand by, while we are checking your browser...",https://www.deeplearning.ai/,2050000000.0,72,6,57
+Deep learning,11,Machines Can See – Computer Vision and Deep Learning Summit | Biometric Update,Machines Can See – Computer Vision and Deep Learning Summit,"Machines Can See – Computer Vision and Deep Learning Summit
+Moscow (and online)
+July 8, 2021 – 10:00 UTC+3",https://www.biometricupdate.com/202106/machines-can-see-computer-vision-and-deep-learning-summit,2050000000.0,68,25,66
+Deep learning,12,Top Books For Machine Learning Engineers (Recommended by Experts),"
+Top Books For Machine Learning Engineers (Recommended By Experts) ",,https://analyticsindiamag.com/top-books-for-machine-learning-engineers-recommended-by-experts/,2050000000.0,62,22,61
+Deep learning,13,7 Resources To Learn Deep Learning In 2021,"
+7 Resources To Learn Deep Learning In 2021 ",,https://analyticsindiamag.com/7-resources-to-learn-deep-learning-in-2021/,2050000000.0,66,5,87
+Deep learning,14,"What Is Deep Learning? | How It Works, Techniques & Applications - MATLAB & Simulink",What Is Deep Learning?,"
+				
+				Deep Learning
+			",https://www.mathworks.com/discovery/deep-learning.html,2050000000.0,89,7,66
+Deep learning,15,Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy,"
+Deep Learning A-Z™: Hands-On Artificial Neural Networks
+",*** As seen on Kickstarter ***,https://www.udemy.com/course/deeplearning/,2050000000.0,90,29,52
+Deep learning,16,Deep Learning Online Course,Deep Learning,At 12 hrs/week,https://www.udacity.com/course/deep-learning-nanodegree--nd101,2050000000.0,78,12,56
+Deep learning,17,,Home,"Deep Learning Turkey is the leading AI community in Turkey. It was established in order to create awareness in Machine Learning, Deep Learning and Data Science to provide experience and information sharing.",http://deeplearningturkiye.org/,2050000000.0,88,10,88
+Deep learning,18,Deep Learning | NVIDIA Developer, Deep Learning,"Join the NVIDIA Developer Program for access to hundreds of SDK's, performance  analysis tools, training courses, and more.",https://developer.nvidia.com/deep-learning,2050000000.0,82,18,77
+Deep learning,19,What is Deep Learning and How does it work? | Towards Data Science,What is Deep Learning and How does it work?,Sign in,https://towardsdatascience.com/what-is-deep-learning-and-how-does-it-work-2ce44bb692ac,2050000000.0,70,20,72
+Deep learning,20,Deep Learning,Deep Learning,"
+The Deep Learning textbook is a resource intended to help students
+and practitioners enter the field of machine learning in general
+and deep learning in particular.
+The online version of the book is now complete and will remain
+available online for free.
+",https://www.deeplearningbook.org/,2050000000.0,66,20,70
+Deep learning,21,Neural networks and deep learning,h1 not found,Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/,2050000000.0,80,11,77
+Deep learning,22,Title not found,h1 not found,Snippet not found,https://www.linkedin.com/company/deep-learning-turkiye,2050000000.0,75,17,88
+Deep learning,23,Deep Learning In 5 Minutes | What Is Deep Learning? | Deep Learning Explained Simply | Simplilearn - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=6M5VXKLf4D4,2050000000.0,72,6,82
+Deep learning,24,"The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog","What’s the Difference Between Artificial Intelligence, Machine Learning and Deep Learning?",This is the first of a multi-part series explaining the fundamentals of deep learning by long-time tech journalist Michael Copeland.,https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/,2050000000.0,88,10,57
+Deep learning,25,What is Deep Learning?  | IBM,"  Deep Learning
+","Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data. While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy.",https://www.ibm.com/cloud/learn/deep-learning,2050000000.0,89,17,74
+Machine learning,1,Machine learning - Wikipedia,Machine learning,"Machine learning (ML) is the study of computer algorithms that improve automatically through experience and by the use of data.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as ""training data"", in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.[3]
+",https://en.wikipedia.org/wiki/Machine_learning,1970000000.0,80,5,86
+Machine learning,2,Machine learning | artificial intelligence | Britannica,Machine learning,Our editors will review what you’ve submitted and determine whether to revise the article.,https://www.britannica.com/technology/machine-learning,1970000000.0,74,17,62
+Machine learning,3,Aprendizaje AutomÃ¡tico | Coursera,Aprendizaje AutomÃ¡tico,,https://www.coursera.org/learn/machine-learning,1970000000.0,64,13,66
+Machine learning,4,Aprendizaje AutomÃ¡tico | Coursera,Aprendizaje AutomÃ¡tico,,https://www.coursera.org/learn/machine-learning#about,1970000000.0,68,30,52
+Machine learning,5,Aprendizaje AutomÃ¡tico | Coursera,Aprendizaje AutomÃ¡tico,,https://www.coursera.org/learn/machine-learning#instructors,1970000000.0,64,30,95
+Machine learning,6,Aprendizaje AutomÃ¡tico | Coursera,Aprendizaje AutomÃ¡tico,"Subtitles: English, Arabic,  +11 more",https://www.coursera.org/learn/machine-learning#syllabus,1970000000.0,67,19,77
+Machine learning,7,Machine Learning: What it is and why it matters | SAS,Machine Learning,Skip to main content,https://www.sas.com/en_us/insights/analytics/machine-learning.html,1970000000.0,83,14,50
+Machine learning,8,What is the Definition of Machine Learning? | Expert.ai | Expert.ai,What is Machine Learning? A Definition.,,https://www.expert.ai/blog/machine-learning-definition/,1970000000.0,77,18,83
+Machine learning,9,Top Books For Machine Learning Engineers (Recommended by Experts),"
+Top Books For Machine Learning Engineers (Recommended By Experts) ",,https://analyticsindiamag.com/top-books-for-machine-learning-engineers-recommended-by-experts/,1970000000.0,77,27,84
+Machine learning,10,Machine learning at the edge: TinyML is getting big | ZDNet,Machine learning at the edge: TinyML is getting big,"Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge, and it's seeing rapid growth.",https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/,1970000000.0,68,28,93
+Machine learning,11,Using large-scale experiments and machine learning to discover theories of human decision-making | Science,Using large-scale experiments and machine learning to discover theories of human decision-making,Read our COVID-19 research and news.,https://science.sciencemag.org/content/372/6547/1209.abstract,1970000000.0,83,30,92
+Machine learning,12,What is Machine Learning?  | IBM,"  Machine Learning
+","Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",https://www.ibm.com/cloud/learn/machine-learning,1970000000.0,78,22,62
+Machine learning,13,What is Machine Learning?  | IBM,"  Machine Learning
+","Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",https://www.ibm.com/cloud/learn/machine-learning#toc-machine-le-SzgJbkmk,1970000000.0,73,26,73
+Machine learning,14,What is Machine Learning?  | IBM,"  Machine Learning
+","Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",https://www.ibm.com/cloud/learn/machine-learning#toc-machine-le-K7VszOk6,1970000000.0,88,27,77
+Machine learning,15,"
+    Top Machine Learning Courses Online - Updated [June 2021]
+ | Udemy",Machine Learning Courses,"5,648,990 learners",https://www.udemy.com/topic/machine-learning/,1970000000.0,78,20,54
+Machine learning,16,What Is Machine Learning and Why Is It Important?,machine learning ,Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.,https://searchenterpriseai.techtarget.com/definition/machine-learning-ML,1970000000.0,72,9,92
+Machine learning,17,What is Machine Learning? | Emerj,What is Machine Learning?,Get Emerj's AI research and trends delivered to your inbox every week:,https://emerj.com/ai-glossary-terms/what-is-machine-learning/,1970000000.0,71,11,71
+Machine learning,18,"What Is Machine Learning? | How It  Works, Techniques &  Applications - MATLAB & Simulink","
+				
+				Machine Learning
+			", ,https://www.mathworks.com/discovery/machine-learning.html,1970000000.0,67,14,89
+Machine learning,19,Explore AWS AI and machine learning services, Machine Learning on AWS,"AWS offers the broadest and deepest set of machine learning services and supporting cloud infrastructure, putting machine learning in the hands of every developer, data scientist and expert practitioner. AWS is helping more than one hundred thousand customers accelerate their machine learning journey.",https://aws.amazon.com/machine-learning/,1970000000.0,64,11,70
+Machine learning,20,"Machine learning, explained  | MIT Sloan","Machine learning, explained ","
+
+Happy Pride Month!
+",https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained,1970000000.0,76,6,92
+Machine learning,21,Azure Machine Learning - ML as a Service | Microsoft Azure,Azure Machine Learning,Enterprise-grade machine learning service to build and deploy models faster,https://azure.microsoft.com/en-us/services/machine-learning/,1970000000.0,75,23,57
+Machine learning,22,Data Science: Machine Learning | Harvard University,"
+                Harvard Online Courses              ","Perhaps the most popular data science methodologies come from machine learning. What distinguishes machine learning from other computer guided decision processes is that it builds prediction algorithms using data. Some of the most popular products that use machine learning include the handwriting readers implemented by the postal service, speech recognition, movie recommendation systems, and spam detectors.",https://online-learning.harvard.edu/course/data-science-machine-learning,1970000000.0,62,28,69
+Machine learning,23,Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=ukzFI9rgwfU,1970000000.0,84,22,82
+Machine learning,24,Please Wait... | Cloudflare,Please wait...,"Please stand by, while we are checking your browser...",https://www.deeplearning.ai/programs/,1970000000.0,61,6,69
+Machine learning,25,"The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog","What’s the Difference Between Artificial Intelligence, Machine Learning and Deep Learning?",This is the first of a multi-part series explaining the fundamentals of deep learning by long-time tech journalist Michael Copeland.,https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/,1970000000.0,87,28,92
+Database,1,Database - Wikipedia,Database,"A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+",https://en.wikipedia.org/wiki/Database,1330000000.0,63,15,76
+Database,2,Database model - Wikipedia,Database model,"A database model is a type of data model that determines the logical structure of a database. It fundamentally determines in which manner data can be stored, organized and manipulated. The most popular example of a database model is the relational model, which uses a table-based format.
+",https://en.wikipedia.org/wiki/Database_model,1330000000.0,64,6,70
+Database,3,Relational database - Wikipedia,Relational database,"A relational database is a digital database based on the relational model of data, as proposed by E. F. Codd in 1970.[1]
+A software system used to maintain relational databases is a relational database management system (RDBMS). Many relational database systems have an option of using the SQL (Structured Query Language) for querying and maintaining the database.[2]
+",https://en.wikipedia.org/wiki/Relational_database,1330000000.0,80,6,75
+Database,4,Database server - Wikipedia,Database server,"A database server is a server which uses a database application that provides database services to other computer programs or to computers, as defined by the client–server model.[citation needed][1][2] Database management systems (DBMSs) frequently provide database-server functionality, and some database management systems (such as MySQL) rely exclusively on the client–server model for database access (while others e.g. SQLite are meant for using as an embedded database).
+",https://en.wikipedia.org/wiki/Database_server,1330000000.0,65,23,94
+Database,5,Graph database - Wikipedia,Graph database,"In computing, a graph database (GDB) is a database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data.[1] A key concept of the system is the graph (or edge or relationship). The graph relates the data items in the store to a collection of nodes and edges, the edges representing the relationships between the nodes. The relationships allow data in the store to be linked together directly and, in many cases, retrieved with one operation. Graph databases hold the relationships between data as a priority. Querying relationships is fast because they are perpetually stored in the database. Relationships can be intuitively visualized using graph databases, making them useful for heavily inter-connected data.[2]
+",https://en.wikipedia.org/wiki/Graph_database,1330000000.0,85,20,68
+Database,6,What is a Database? - Definition from WhatIs.com,database (DB) ,"A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Computer databases typically contain aggregations of data records or files, containing information about sales transactions or interactions with specific customers.",https://searchdatamanagement.techtarget.com/definition/database,1330000000.0,81,21,85
+Database,7,What Is a Database | Oracle,What Is a Database?,Your search did not match any results.,https://www.oracle.com/database/what-is-database/,1330000000.0,73,21,58
+Database,8,MySQL,h1 not found,"MySQL Database Service is a fully managed database service to deploy cloud-native applications.  HeatWave, an integrated, high-performance query accelerator that boosts MySQL performance by 400x.
+                 Learn More »",https://www.mysql.com/,1330000000.0,79,10,62
+Database,9,"What is a Database? Definition, Meaning, Types, Example"," What is a Database? Definition, Meaning, Types, Example ","Before we learn about a database, let us understand - ",https://www.guru99.com/introduction-to-database-sql.html,1330000000.0,62,6,76
+Database,10,"database | Definition, Types, & Facts | Britannica",Database,Our editors will review what you’ve submitted and determine whether to revise the article.,https://www.britannica.com/technology/database,1330000000.0,72,21,92
+Database,11,What is Database - javatpoint,Database,"Data is a collection of a distinct small unit of information. It can be used in a variety of forms like text, numbers, media, bytes, etc. it can be stored in pieces of paper or electronic memory, etc.  ",https://www.javatpoint.com/what-is-database,1330000000.0,72,7,74
+Database,12,Database Tutorial for Beginners - YouTube,h1 not found,Snippet not found,https://www.youtube.com/watch?v=wR0jg0eQsZA,1330000000.0,79,10,93
+Database,13,SQLite Home Page,h1 not found,"SQLite is a C-language library that implements a
+small,
+fast,
+self-contained, 
+high-reliability,
+full-featured,
+SQL database engine.
+SQLite is the most used database engine in the world.
+SQLite is built into all mobile phones and most computers and
+comes bundled inside countless other applications that people
+use every day.
+More Information...
+",https://www.sqlite.org/,1330000000.0,74,7,61
+Database,14,Database Definition,Database,"A database is a data structure that stores organized information.  Most databases contain multiple tables, which may each include several different fields.  For example, a company database may include tables for products, employees, and financial records.  Each of these tables would have different fields that are relevant to the information stored in the table.",https://techterms.com/definition/database,1330000000.0,76,24,89
+Database,15,PostgreSQL: The world's most advanced open source database,PostgreSQL: The World's Most Advanced Open Source Relational Database,"
+          PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development
+          that has earned it a strong reputation for reliability, feature robustness, and performance.
+        ",https://www.postgresql.org/,1330000000.0,68,7,86
+Database,16,The most popular database for modern apps | MongoDB,The database for modern applications,Atlas,https://www.mongodb.com/,1330000000.0,77,26,69
+Database,17,"
+	Data and Information Management, Big Data, Data Science - Database Trends and Applications
+",DBTA 100 2021: The Companies That Matter Most in Data,"
+                The past 15 months have provided an object lesson for all organizations in the importance of being agile and moving quickly to address new challenges and opportunities. The COVID-19 pandemic created even greater urgency to better manage and extract valuable insights from data for companies that were already dealing with expanding regulatory pressures, new data security risks, and burgeoning data volumes.
+                Read More
+",https://www.dbta.com/,1330000000.0,87,12,75
+Database,18,SQL CREATE DATABASE Statement,SQL CREATE DATABASE Statement,The CREATE DATABASE statement is used to create a new SQL database.,https://www.w3schools.com/sql/sql_create_db.asp,1330000000.0,90,17,85
+Database,19,Database: Getting Started - Laravel - The PHP Framework For Web Artisans,Database: Getting Started,,https://laravel.com/docs/8.x/database,1330000000.0,60,8,50
+Database,20,TARIC Consultation,TARIC Consultation,Accessibility tools,https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en,1330000000.0,81,23,69
+Database,21,Database | Definition of Database by Merriam-Webster,database,,https://www.merriam-webster.com/dictionary/database,1330000000.0,83,12,68
+Database,22,MariaDB Enterprise Open Source Database & SkySQL MariaDB Cloud | MariaDB,Lift and Shift to SkySQL,Database Innovation Summit 2021,https://mariadb.com/,1330000000.0,63,23,63
+Database,23,Enzyme Database - BRENDA,Text-based queries,Snippet not found,https://www.brenda-enzymes.org/,1330000000.0,81,24,77
+Database,24,Amazon RDS | Cloud Relational Database | Amazon Web Services, Amazon Relational Database Service (RDS),"Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.",https://aws.amazon.com/rds/,1330000000.0,88,6,87
+Database,25,"
+H2 Database Engine (redirect)
+",H2 Database Engine,"
+Welcome to H2, the free SQL database. The main feature of H2 are:
+",https://www.h2database.com/,1330000000.0,77,24,88
+Recurrent neural network,1,Recurrent neural network - Wikipedia,Recurrent neural network,"A recurrent neural network (RNN) is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs.[1][2][3] This makes them applicable to tasks such as unsegmented, connected handwriting recognition[4] or speech recognition.[5][6]
+",https://en.wikipedia.org/wiki/Recurrent_neural_network,43900000.0,84,7,91
+Recurrent neural network,2,Recursive neural network - Wikipedia,Recursive neural network,"A recursive neural network is a kind of deep neural network created by applying the same set of weights recursively over a structured input, to produce a structured prediction over variable-size input structures, or a scalar prediction on it, by traversing a given structure in topological order. Recursive neural networks, sometimes abbreviated as RvNNs, have been successful, for instance, in learning sequence and tree structures in natural language processing, mainly phrase and sentence continuous representations based on word embedding. RvNNs have first been introduced to learn distributed representations of structure, such as logical terms.[1]
+Models and general frameworks have been developed in further works since the 1990s.[2][3]
+",https://en.wikipedia.org/wiki/Recursive_neural_network,43900000.0,68,18,70
+Recurrent neural network,3,Long short-term memory - Wikipedia,Long short-term memory,"Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture[1] used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition,[2] speech recognition[3][4] and anomaly detection in network traffic or IDSs (intrusion detection systems).
+",https://en.wikipedia.org/wiki/Long_short-term_memory,43900000.0,84,26,79
+Recurrent neural network,4,David Rumelhart - Wikipedia,David Rumelhart,"David Everett Rumelhart (June 12, 1942 – March 13, 2011)[1] was an American psychologist who made many contributions to the formal analysis of human cognition, working primarily within the frameworks of mathematical psychology, symbolic artificial intelligence, and parallel distributed processing. He also admired formal linguistic approaches to cognition, and explored the possibility of formulating a formal grammar to capture the structure of stories.
+",https://en.wikipedia.org/wiki/David_Rumelhart,43900000.0,80,23,78
+Recurrent neural network,5,CS 230 - Recurrent Neural Networks Cheatsheet,"
+Recurrent Neural Networks cheatsheet
+  Star
+",Shervine Amidi,https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks,43900000.0,70,23,78
+Recurrent neural network,6,What are Recurrent Neural Networks?  | IBM,"  Recurrent Neural Networks
+","A recurrent neural network (RNN) is a type of artificial neural network which uses sequential data or time series data. These deep learning algorithms are commonly used for ordinal or temporal problems, such as language translation, natural language processing (nlp), speech recognition, and image captioning; they are incorporated into popular applications such as Siri, voice search, and Google Translate. Like feedforward and convolutional neural networks (CNNs), recurrent neural networks utilize training data to learn. They are distinguished by their “memory” as they take information from prior inputs to influence the current input and output. While traditional deep neural networks assume that inputs and outputs are independent of each other, the output of recurrent neural networks depend on the prior elements within the sequence. While future events would also be helpful in determining the output of a given sequence, unidirectional recurrent neural networks cannot account for these events in their predictions.",https://www.ibm.com/cloud/learn/recurrent-neural-networks,43900000.0,63,21,93
+Recurrent neural network,7,What are Recurrent Neural Networks?  | IBM,"  Recurrent Neural Networks
+","A recurrent neural network (RNN) is a type of artificial neural network which uses sequential data or time series data. These deep learning algorithms are commonly used for ordinal or temporal problems, such as language translation, natural language processing (nlp), speech recognition, and image captioning; they are incorporated into popular applications such as Siri, voice search, and Google Translate. Like feedforward and convolutional neural networks (CNNs), recurrent neural networks utilize training data to learn. They are distinguished by their “memory” as they take information from prior inputs to influence the current input and output. While traditional deep neural networks assume that inputs and outputs are independent of each other, the output of recurrent neural networks depend on the prior elements within the sequence. While future events would also be helpful in determining the output of a given sequence, unidirectional recurrent neural networks cannot account for these events in their predictions.",https://www.ibm.com/cloud/learn/recurrent-neural-networks#toc-what-are-r-btVB33l5,43900000.0,69,15,63
+Recurrent neural network,8,What are Recurrent Neural Networks?  | IBM,"  Recurrent Neural Networks
+","A recurrent neural network (RNN) is a type of artificial neural network which uses sequential data or time series data. These deep learning algorithms are commonly used for ordinal or temporal problems, such as language translation, natural language processing (nlp), speech recognition, and image captioning; they are incorporated into popular applications such as Siri, voice search, and Google Translate. Like feedforward and convolutional neural networks (CNNs), recurrent neural networks utilize training data to learn. They are distinguished by their “memory” as they take information from prior inputs to influence the current input and output. While traditional deep neural networks assume that inputs and outputs are independent of each other, the output of recurrent neural networks depend on the prior elements within the sequence. While future events would also be helpful in determining the output of a given sequence, unidirectional recurrent neural networks cannot account for these events in their predictions.",https://www.ibm.com/cloud/learn/recurrent-neural-networks#toc-types-of-r-q1VkG6gm,43900000.0,73,13,82
+Recurrent neural network,9,Recurrent Neural Networks. Remembering what’s important | by Mahendran Venkatachalam | Towards Data Science,Recurrent Neural Networks,Sign in,https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce,43900000.0,65,11,80
+Recurrent neural network,10,"
+      
+        A Beginner's Guide to LSTMs and Recurrent Neural Networks | Pathmind
+      
+    ",A Beginner's Guide to LSTMs and Recurrent Neural Networks,"Data can only be understood backwards; but it must be lived forwards. — Søren Kierkegaard, Journals*",https://wiki.pathmind.com/lstm,43900000.0,74,26,60
+Recurrent neural network,11,Recurrent Neural Networks (RNN) with Keras  |  TensorFlow Core,Recurrent Neural Networks (RNN) with Keras,,https://www.tensorflow.org/guide/keras/rnn,43900000.0,60,27,92
+Recurrent neural network,12,Recurrent Neural Network - an overview | ScienceDirect Topics,Recurrent Neural Network,Recurrent neural networks (RNNs) are a class of neural networks that are naturally suited to processing time-series data and other sequential data.,https://www.sciencedirect.com/topics/engineering/recurrent-neural-network,43900000.0,90,15,55
+Recurrent neural network,13,What are recurrent neural networks (RNN)? – TechTalks,What are recurrent neural networks (RNN)?,"This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.",https://bdtechtalks.com/2020/06/08/what-is-recurrent-neural-network-rnn/,43900000.0,83,12,68
+Recurrent neural network,14,Understanding RNN and LSTM. What is Neural Network? | by Aditi Mittal | Medium,Understanding RNN and LSTM,Sign in,https://aditi-mittal.medium.com/understanding-rnn-and-lstm-f7cdf6dfc14e,43900000.0,88,13,82
+Recurrent neural network,15,Access denied | builtin.com used Cloudflare to restrict access,"
+Error
+1020
+",This website is using a security service to protect itself from online attacks.,https://builtin.com/data-science/recurrent-neural-networks-and-lstm,43900000.0,83,17,92
+Recurrent neural network,16,Recurrent Neural Network (RNN) Tutorial for Beginners,Recurrent Neural Network (RNN) Tutorial for Beginners,,https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn,43900000.0,68,9,90
+Recurrent neural network,17,Beginner’s Guide on Recurrent Neural Networks with PyTorch,A Beginner’s Guide on Recurrent Neural Networks with PyTorch,"Although the content is introductory, the post assumes that you at least have a basic understanding of normal feed-forward neural nets.",https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/,43900000.0,76,26,89
+Recurrent neural network,18,Introduction to Recurrent Neural Network - GeeksforGeeks,h1 not found,"Recurrent Neural Network(RNN) are a type of Neural Network where the output from previous step are fed as input to the current step. In traditional neural networks, all the inputs and outputs are independent of each other, but in cases like when it is required to predict the next word of a sentence, the previous words are required and hence there is a need to remember the previous words. Thus RNN came into existence, which solved this issue with the help of a Hidden Layer. The main and most important feature of RNN is Hidden state, which remembers some information about a sequence.",https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/,43900000.0,84,25,71
+Recurrent neural network,19,"What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras & Python) - YouTube",h1 not found,Snippet not found,https://www.youtube.com/watch?v=Y2wfIKQyd1I,43900000.0,65,14,55
+Recurrent neural network,20,The Unreasonable Effectiveness of Recurrent Neural Networks,The Unreasonable Effectiveness of Recurrent Neural Networks,42145,http://karpathy.github.io/2015/05/21/rnn-effectiveness/,43900000.0,76,19,65
+Recurrent neural network,21,Recurrent Neural Network Guide - a Deep Dive in RNN - neptune.ai,Recurrent Neural Network Guide – a Deep Dive in RNN,Blog » Computer Vision » Recurrent Neural Network Guide – a Deep Dive in RNN,https://neptune.ai/blog/recurrent-neural-network-guide,43900000.0,89,15,93
+Recurrent neural network,22,Frontiers | Application of Convolutional Recurrent Neural Network for Individual Recognition Based on Resting State fMRI Data | Neuroscience,"
+
+Frontiers in Neuroscience
+                            
+",Impact Factor 3.707 | CiteScore 5.1More on impact ›,https://www.frontiersin.org/articles/10.3389/fnins.2019.00434/full,43900000.0,63,29,69
+Recurrent neural network,23,Title not found,h1 not found,"%PDF-1.7
+%³��
+1 0 obj<> /Outlines 5 0 R /Pages 2 0 R /Type /Catalog>>endobj3 0 obj<>endobj6 0 obj<>>> /Type /Page>>endobj7 0 obj<>
+stream
+x��U�j�0}/���*�E�!vs)��b���H�y��w${��3��M1��̙37mtA��Q��?w���d��ݷ+��EW�ן���U���I8�3N��q �c�sr�N����^��>����'G��8�蓄+��g�~�����}����OB�w���O�~X�����P\�Pã��~����nx�C���Ó�>��p+ BPtM ��n+@r�]n��n���2����j���&,�Ua�xwW[�E�y��R�[��C�k6���s�	ijvj�""��	�Ee{b��1�1���Q�UPC�Z碬�@��A��F�|��e��ve/gڍ=�U���""�����!����8�}^u1���T�7́f,LX�CGaT���mT|9�Iu3��u�
+��Ro��z�2k]PS.Le��D1�M1Z&�܃BrSz`to�2���2%��:m1��#[4�+�A�yE3C��뒛(�W���7������6�Yx�� �i�
+endstreamendobj13 0 obj<>>> /Type /Page>>endobj14 0 obj<>
+stream
+x��Z]��6}/�?�9W�C)�&��@R�JS�м��G���|f�����ކ���]�Fs4���V�*�^��p��?�4�4CK0������ߍn��׿�ן^4�Jct�\z�`�]������o�)�rzx�0K}�)cw&VN��~f��:��j�;
+�u1v>}�F���ƴ��������1n 9?�N���~�+v��%Z�����4�(e^�z��S�Û����@�4K��S��6�c�5Y���E� ����0���)����j�,7�uY�6~��@X+�!�͸�c�&���k'�ah��5J{U�P""�h��k�|�&��� �����ɦY����Z��J�!�""f�WW��l��� (�ke�`�;�\tL	'rT�1�O��&ާ�2̓lSB=)�-���h5����bƆ�
+aBj��#�5��<7cAg�O��jJ	TB��sD���5P| ���F/�au8$�@�*�k�aбp|y�%dるI������dv��Z���z��00	� �vL�gD{����C��'�T�I�#N谣����^��j=�}�E�dfd1��0�����:nNO�6[e# �E��ť)R���l�0��h,���hK�}p�E����gY�b���*�bt��9�d{��� W	<2g�0Q�1�`�W�܏��K��N߁��zFg>�y�	&�̷�3�j�Y �e�""8�8Ã�6!R�q�C��i�""%��t��Y:F�Ќ�Y���jOD����J��6k=��S*��QP=[SF,�Z�yRQ�e1f����?u�����-���Qb��i2[\Z[:,k���Zs|^�e�*�%B�O��h:N�6���*=;,�+M��;��w��6LG�|I>λ~����""��ϡ�2w;���D��U�%7�P���#'���}� 7z�l{E5��=�xLS]=h�8nP��	�����v:��e�X�O�p�ۼ�>�E���D��{�]E?�]��w(`f-�_y�^@&ta��7��4;�Ŵ<>Ƀ��Ld�:�����3.I�uY��ؤ��|n�㸀�E3��^D��=}��O:$��Z����B�-�7��K ,�.�6��,m[�M-N82ˑ��j�����~�!�2Y�ot�Ek������&�\�+�^�l�pL��o�?�
+endstreamendobj15 0 obj<>>> /Type /Page>>endobj16 0 obj<>
+stream
+x��VQk1~�?��0ϖm���K��`�cZX_��'���#���`0�8�$�>�紥罣%��=��� 	f���z��/�����?^�{eM
+��iu�M���cc��@Vѕզ%l�I0�6��hA�kuHք��hB�:�l���ű��_
+��|��ŁXH�֯��8����~�z@��G2�q�S�E;8�c�ӳ�hm��ӓF$zz�%��
+�=h��b�R �@�.)�#n���C�뇼B���!�&W��)̾ ��HX`�\X\�����tIP����v9m��	7�b5�F�. ���0q�c#���}v���""�YmQ�]��]b�D��䕫�{��m9u�u)N,�f���մl�i[U֙���1o:;k�w�Ԉ���8��c�q�϶m���������&1�KW�}�\�z��/D
+7l[�C �z��k��""�:��.2LW�>����bWލ�?�w ެn���F~��Խ%Ąs|]��Fy�8+^�Y@��?O��(���M�t�hr��RJ@�AJ7,��[HI$/�/��G���w���xyW��E�gR㜩8I����0�����$^�����{�v)��
+endstreamendobj19 0 obj<>
+stream
+���� JFIF      �� C 		
+ $.' "",#(7),01444'9=82C			2!!22222222222222222222222222222222222222222222222222��  �"" ��           	
+�� �   } !1AQa""q2���#B��R��$3br�	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz���������������������������������������������������������������������������        	
+�� �  w !1AQaq""2�B����	#3R�br�
+$4�%�&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz��������������������������������������������������������������������������   ? ������U���$�OAJt	I��U�Zf u��Z�:C��\������$�R 9��#�E[��Y�؄��qSI��F��f��)��h#��-�����i�����$+zQ�zUϱ�3�⏱LG@�t)�""��*��*#d$�0g�qCW����1�6�Z6�/w H���n��S���`�+V��5ų���*q�ۧ�x� =�s\-��}�ʷ ��}�FKu52��S�Ȭ�"",X�
+d�����޸i.RI&���=y�;���W���nj�s�;�G5��>�ᑋ`FOc]�����`�Q'��S���Ю_oa\��Ư/gÑMq��m�yp�ZY�zԮ� ���y��J�[#'Ԕ\$K�p�v�NI��qZ��39s��[K�IT�8�z%K�۩y[h8�_�H��1�MQҦ�~�s]�.bֺ�`��k�@�f�fѓW3ޢ�����5�.�F�`2�zפ��+is�^peP=kJz��G�4����a��j�""��PqY�e��i1�d����WhO�p��jf�I��Ŋ4� #8��֚A��vq�J��6��xG�V݆�n
+�@��և4H��H�Sͣ��q�#�]�F��
+1Y-
+nb��P�G�건7n��Mg�Vω@:����R+h�kRT}��We�^��$ax���]�f����m���f\w:m^�Ͻ��X�I��oJ���&��7����Bl�g.y�1F%���L�;OZ��^sq+z+��?;g�5�`��PG;�8�جN�F[�>�Z`\�u���Ќc�ʽ'S�p����xgQ����m�m�3�p�z��V�5�<5�D�%sR�viY���*�@�;�1�kS;1�^�t�T� �s踪w^��X�ń.���9���qJ����	l�ڨ��Zl����
++��U�5��9�i��p�D�p6zV���K�q�Zt-���nc�(E�1RI�xQ�V{r+�;{W�xVf���I�kQ���*���ƙ6���""�%�*yv+D�@��X1�5�ƕ/�p.P�����]� �\��slM��Nkj{Mj{�uo�T`���{���BG5�VZ���G$(�5�a��t\����At��V��.-�xnշo�m)(r:W�����L�!$�kj����r!$)Y��۞�q
+�`ҳ�;+�q����d+�� �UxެR;U�F��]�ޤ�|�V��p4ɖ��VZ��i2�O�F�ݵ6�-]�)w��t�����Gz��m)�-�0 �.[������W�k:v�70��}�:��23 RiD�#�CpA���}>��[ۤ�,�p03�s^��߄�޴2^�X��� �zg�nx��%�̊�dl*[�z��Z@s�b�rO@��""M&��G�ⳳ�b�/���ZQ��>�m�KC��r:��S��� �G��k-����$��u��R@޶=�z����zS� ��Ey{�E�uA��4�+�le*@ ��+���� �[���U�����n~/�5�b��U��V��?{�]�7����0�hd]����).�Z�|�>�,�`��ۜu�T
+p@���xR��r�`ɏ����yΧ�b�G�@A��v���K��� %c�k���K�r��5٢��f��C@B�""��Oj^h� m��]�c�������<
+��c;]\�2�ڹAe9Ҍ��f��g�Ask""=F�xe�8��Ʈȉ$���%̓�P��Q���ā�m�j0.�坡���]$:a���=�ܵ#�C���|qC""��*���5���]��j��%�DE��4�s�6�@`$ЛWF�v����k�u��U�ӧ��`u�q]LZte�H����7b��k���Yx8����LR���FUo!x�S��Q�""A�4��39e C�j",,,87,7,64

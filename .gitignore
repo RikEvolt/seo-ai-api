@@ -1,0 +1,31 @@
+# Môi trường ảo
+venv/
+env/
+.tf-seo-env/
+tf-seo-env/
+# Mô hình AI
+*.h5
+*.pkl
+*.joblib
+*.model
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code config
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Hệ thống & tạm thời
+.DS_Store
+*.swp
+
+# Thông tin bảo mật
+.env
+*.key
+*.pem
+tf-seo-env/

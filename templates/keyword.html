@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quick SEO Analyzer</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      padding: 30px;
+    }
+    .card {
+      margin: 10px 0;
+    }
+    .score {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+    .subtitle {
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2 class="mb-4">🔍 Quick Website Analysis</h2>
+    <form method="POST" action="/" class="mb-4">
+      <div class="input-group">
+        <input type="text" class="form-control" name="url" placeholder="https://example.com" required>
+        <button type="submit" class="btn btn-primary">Analyze</button>
+      </div>
+    </form>
+
+    {% if result %}
+    <div class="row">
+      <div class="col-md-3">
+        <div class="card text-center">
+          <div class="card-body">
+            <div class="score">{{ result.web_score }}/100</div>
+            <div class="subtitle">Website Score</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card text-center">
+          <div class="card-body">
+            <div class="score">{{ result.keywords_top10 }}</div>
+            <div class="subtitle">Top 10 Keywords</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card text-center">
+          <div class="card-body">
+            <div class="score">{{ result.backlinks }}</div>
+            <div class="subtitle">Backlinks</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card text-center">
+          <div class="card-body">
+            <div class="score">{{ result.content_score }}/100</div>
+            <div class="subtitle">Content Score</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-4">
+      <h5>🔎 Analysis Summary</h5>
+      <p>{{ result.summary }}</p>
+    </div>
+    {% endif %}
+  </div>
+
+</body>
+</html>
